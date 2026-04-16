@@ -1,3 +1,3 @@
 class B {
-  int x = 20;
-}
+int x = 5;
+  }
