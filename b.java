@@ -1,2 +1,3 @@
-sout 
-  //changes
+class B {
+int x = 5;
+  }
